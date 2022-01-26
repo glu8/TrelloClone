@@ -1,2 +1,2 @@
 # TrelloClone
-Trello CLone
+Trello Clone
