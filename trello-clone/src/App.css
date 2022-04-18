@@ -2,6 +2,22 @@
   text-align: center;
 }
 
-.column {
+.header {
   display: block;
+}
+
+.column {
+  background-color: lightblue;
+  display: inline-block;
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  vertical-align: top;
+}
+
+.task {
+  background-color: lightgrey;
+  padding: 5px;
+  margin: 5px 0px;
+
 }
