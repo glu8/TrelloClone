@@ -10,14 +10,17 @@
   background-color: lightblue;
   display: inline-block;
   margin: 10px;
-  width: 200px;
-  height: 200px;
   vertical-align: top;
 }
 
 .task {
-  background-color: lightgrey;
+  border: 1px solid lightgrey;
+  background-color: white;
+  border-radius: 2px;
   padding: 5px;
-  margin: 5px 0px;
+  margin-bottom: 8px;
+}
 
+.taskList {
+  padding: ;
 }
